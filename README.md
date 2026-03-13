@@ -23,9 +23,7 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,js,python&perline=6" />
-</p>
+<img src="https://skillicons.dev/icons?i=java,js,python&perline=3&theme=dark" />
 
 ### 🎨 Frontend
 <p align="center">
