@@ -1,4 +1,8 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Nayan Prajapati</h1>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;React+Developer;Node.js+Backend+Developer;Open+Source+Contributor&center=true&width=500&height=45">
+</p>
 
 <!--
 **nayan-21/nayan-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
