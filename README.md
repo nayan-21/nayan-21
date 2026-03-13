@@ -4,6 +4,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;React+Developer;Node.js+Backend+Developer;Open+Source+Contributor&center=true&width=500&height=45">
 </p>
 
+### 🚀 Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,mongodb,python,html,css,tailwind,git,github" />
+</p>
 <!--
 **nayan-21/nayan-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
