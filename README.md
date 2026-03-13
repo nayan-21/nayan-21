@@ -23,7 +23,6 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=java" height="55" hspace="15"/>
 <img src="https://skillicons.dev/icons?i=js" height="55" hspace="15"/>
 <img src="https://skillicons.dev/icons?i=python" height="55" hspace="15"/>
@@ -38,9 +37,9 @@
 <img src="https://skillicons.dev/icons?i=github" height="55" hspace="15"/>
 <img src="https://skillicons.dev/icons?i=vscode" height="55" hspace="15"/>
 <img src="https://skillicons.dev/icons?i=postman" height="55" hspace="15"/>
-
 </p>
----
+
+
 ## 🚀 Featured Projects
 
 🔹 **Food Zone**  
