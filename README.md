@@ -1,32 +1,98 @@
 <h1 align="center">Hi 👋, I'm Nayan Prajapati</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;React+Developer;Node.js+Backend+Developer;Open+Source+Contributor&center=true&width=500&height=45">
+💻 ICT Student | 🚀 Full Stack Developer | 🇮🇳 India
 </p>
 
-### 🚀 Tech Stack
-
-<p>
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,mongodb,python,html,css,tailwind,git,github" />
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;React+Developer;Node.js+Backend+Developer;Open+Source+Enthusiast&center=true&width=500&height=45">
 </p>
 
-### 📊 GitHub Stats
+---
 
-![Nayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nayan-21&show_icons=true&theme=tokyonight)
+## 🚀 About Me
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nayan-21&layout=compact&theme=tokyonight)
+- 🎓 ICT Student  
+- 💻 Passionate about **Full Stack Development**
+- ⚡ Currently building **scalable web applications**
+- 📚 Learning **DSA & System Design**
+- 🌱 Always exploring **new technologies**
 
-![snake gif](https://github.com/nayan-21/nayan-21/blob/output/github-contribution-grid-snake.svg)
+---
 
+## 🛠️ Tech Stack
 
-### 🚀 Featured Projects
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,mongodb,python,html,css,tailwind,git,github,vscode" />
+</p>
 
-🔹 Food Zone – React food ordering UI  
-🔹 YouTube Clone – YouTube API integration  
-🔹 CareNavigator – Healthcare navigation system  
-🔹 Tinder Backend – Node.js + MongoDB
+---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=nayan-21&color=blue)
+## 🚀 Featured Projects
+
+🔹 **Food Zone**  
+React based food ordering UI with modern design.
+
+🔹 **YouTube Clone**  
+YouTube UI clone using **YouTube API**.
+
+🔹 **CareNavigator**  
+Healthcare navigation system for better hospital discovery.
+
+🔹 **Netflix Clone**  
+Netflix inspired UI with movie browsing experience.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nayan-21&show_icons=true&theme=tokyonight" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayan-21&layout=compact&theme=tokyonight" />
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=nayan-21&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nayan-21&theme=tokyo-night" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://portfolio-k5xu.vercel.app">
+Portfolio
+</a> • 
+<a href="https://linkedin.com/in/nayan-prajapati-a83888284">
+LinkedIn
+</a> • 
+<a href="https://github.com/nayan-21">
+GitHub
+</a>
+
+</p>
+
+---
+
+<p align="center">
+⭐ From <b>Nayan Prajapati</b>
+</p>
 <!--
 **nayan-21/nayan-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
