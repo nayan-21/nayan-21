@@ -23,7 +23,22 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,python,html,css,tailwind,react,nodejs,express,mongodb,git,github,vscode,postman&perline=7&size=60" />
+
+<img src="https://skillicons.dev/icons?i=java" height="55" hspace="15"/>
+<img src="https://skillicons.dev/icons?i=js" height="55" hspace="15"/>
+<img src="https://skillicons.dev/icons?i=python" height="55" hspace="15"/>
+<img src="https://skillicons.dev/icons?i=html" height="55" hspace="15"/>
+<img src="https://skillicons.dev/icons?i=css" height="55" hspace="15"/>
+<img src="https://skillicons.dev/icons?i=tailwind" height="55" hspace="15"/>
+<img src="https://skillicons.dev/icons?i=react" height="55" hspace="15"/>
+<img src="https://skillicons.dev/icons?i=nodejs" height="55" hspace="15"/>
+<img src="https://skillicons.dev/icons?i=express" height="55" hspace="15"/>
+<img src="https://skillicons.dev/icons?i=mongodb" height="55" hspace="15"/>
+<img src="https://skillicons.dev/icons?i=git" height="55" hspace="15"/>
+<img src="https://skillicons.dev/icons?i=github" height="55" hspace="15"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="55" hspace="15"/>
+<img src="https://skillicons.dev/icons?i=postman" height="55" hspace="15"/>
+
 </p>
 ---
 ## 🚀 Featured Projects
