@@ -93,6 +93,8 @@ GitHub
 <p align="center">
 ⭐ From <b>Nayan Prajapati</b>
 </p>
+
+![Snake animation](https://github.com/nayan-21/nayan-21/blob/output/github-contribution-grid-snake.svg)
 <!--
 **nayan-21/nayan-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
