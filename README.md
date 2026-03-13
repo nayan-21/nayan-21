@@ -42,17 +42,14 @@
 
 ## 🚀 Featured Projects
 
-🔹 **Food Zone**  
-React based food ordering UI with modern design.
-
-🔹 **YouTube Clone**  
-YouTube UI clone using **YouTube API**.
+🔹 **EduSafe**  
+A platform focused on improving student safety and support systems in educational environments.
 
 🔹 **CareNavigator**  
-Healthcare navigation system for better hospital discovery.
+Healthcare navigation system that helps users discover hospitals and medical services easily.
 
-🔹 **Netflix Clone**  
-Netflix inspired UI with movie browsing experience.
+🔹 **CareerGraph**  
+A career guidance platform that helps students explore career paths and opportunities.
 
 ---
 
