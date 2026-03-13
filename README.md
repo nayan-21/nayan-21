@@ -23,27 +23,26 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-<p>
-<img src="https://skillicons.dev/icons?i=java,js,python" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,js,python&perline=6" />
 </p>
 
 ### 🎨 Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react&perline=6" />
 </p>
 
 ### ⚙️ Backend
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=6" />
 </p>
 
 ### 🛠️ Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&perline=6" />
 </p>
 
 ---
-
 ## 🚀 Featured Projects
 
 🔹 **Food Zone**  
