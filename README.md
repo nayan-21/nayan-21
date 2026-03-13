@@ -93,7 +93,7 @@ Portfolio
 </a> • 
 <a href="https://linkedin.com/in/nayan-prajapati-a83888284">
 LinkedIn
-</a> • 
+</a>
 
 </p>
 
